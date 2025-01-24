@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Digital-Timer/static/css/main.36562527.css",
+    "main.js": "/Digital-Timer/static/js/main.26b63f78.js",
+    "static/js/488.edc988c8.chunk.js": "/Digital-Timer/static/js/488.edc988c8.chunk.js",
+    "static/media/logo.svg": "/Digital-Timer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Digital-Timer/index.html",
+    "main.36562527.css.map": "/Digital-Timer/static/css/main.36562527.css.map",
+    "main.26b63f78.js.map": "/Digital-Timer/static/js/main.26b63f78.js.map",
+    "488.edc988c8.chunk.js.map": "/Digital-Timer/static/js/488.edc988c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36562527.css",
+    "static/js/main.26b63f78.js"
+  ]
+}
