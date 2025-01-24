@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState,useEffect } from 'react';
 import './index.css';
 
 const StartReset = ({ imageURL, text, onClick }) => {
@@ -16,6 +16,10 @@ const DigitalTimer = () => {
   const [isStart, setIsStart] = useState(false);
   const [intervalId, setIntervalId] = useState(null);
   const [isTimesUp, setIsTimesUp] = useState(false);
+
+useEffect(() => {
+  document.title = 'Digital Timer';
+}, []); 
 
   const onClickStartBtn = () => {
     if (!isStart) {
